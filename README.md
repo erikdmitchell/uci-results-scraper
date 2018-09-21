@@ -1,4 +1,4 @@
-# uci-results-scraper
+# UCI Results Scraper
 A WordPress plugin to scrape cyclocross results from the UCI website.
 
 ## Do not use
